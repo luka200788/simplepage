@@ -1,0 +1,24 @@
+body{
+    background-image: url(images/bg-desktop.svg);
+    background-color: hsl(257, 40%, 49%);
+    color: white;
+    font-weight: 400;
+}
+
+.logo{
+    padding: 30px 60px;
+}
+
+.mockups{
+    margin-top: 160px;
+    margin-left: -320px;
+    position: absolute;
+}
+
+.h1{
+    float: right;
+}
+
+.para{
+    float: right;
+}
